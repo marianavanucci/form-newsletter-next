@@ -18,7 +18,7 @@ export default function Home() {
       <p className='text-slate-100 text-xs 
                       w-96 mt-2 text-center'>Ao se inscrever, você passará a 
                       receber os nossos e-mails com as melhores dicas,
-                       novidades e ofertas.</p>
+                       novidades e ofertas. E mais!</p>
     </div>
   )
 }
