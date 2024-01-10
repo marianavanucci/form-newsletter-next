@@ -1,5 +1,9 @@
-import Form from '@/components/Form'
+"use client"; 
+
+import Form from '../components/Form'
 import Image from 'next/image'
+
+
 
 export default function Home() {
   return (
